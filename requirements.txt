@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+streamlit
+
+twilio
+openai-whisper
+nltk
+spacy
+camel-tools
+
+python-multipart
+requests
+pydantic
+
+python-dotenv
+elevenlabs

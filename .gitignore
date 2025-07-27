@@ -1,0 +1,38 @@
+# Ignore environment variable files
+.env
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore IDE configuration files
+.idea/
+.vscode/
+
+# Ignore build artifacts and package metadata
+build/
+dist/
+*.egg-info/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore generated data and output directories
+data/ui_output/
+data/ui_temp/
+data/sip_audio/
+
+# Ignore any test output files
+data/test_output*.mp3
+
+# Ignore binary files not needed in source control
+ngrok.exe
+
+# Ignore log files
+*.log
