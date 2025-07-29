@@ -1,6 +1,6 @@
-# Syrian Arabic Voice Agent for Charco Chicken
+# Customer Service Arabic Voice Agent for Charco Chicken
 
-This project is a prototype for a **production-grade Syrian Arabic AI Voice Agent** designed for **Charco Chicken**, a rapidly expanding Syrian restaurant chain. The agent automates phone orders via real-time SIP telephony, understanding and responding in fluent Syrian Arabic.
+This project is a prototype for a **production-grade Customer Service Arabic AI Voice Agent**, built for a restaurant. The agent automates phone orders via real-time SIP telephony, understanding and responding in fluent Syrian Arabic.
 
 ## Objective
 
